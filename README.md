@@ -1,4 +1,4 @@
-# 📱 Smd-Project: News App
+# 📱 Smd-Project: Khabar(News App)
 
 This is a News App built using **Jetpack Compose**, offering users a modern, intuitive way to browse and read the latest news.
 
